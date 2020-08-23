@@ -45,6 +45,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46]
 * [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** [50:42]
 * [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** [1:07:57]
+* [The Economics of Software Design](https://dev.tube/video/TQ9rng6YFeY) by **J.B. Rainsberger** [55:18]
 
 #### Object-Oriented Programming
 
