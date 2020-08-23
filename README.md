@@ -160,6 +160,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #### Testing
 * [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=s1Y454DTRtg) by **Dave Farley** [01:02:34]
 
+#### Career
+* [The Long Road](https://dev.tube/video/vQDnW265XKU) by **Sandro Mancuso** [56:37]
+
 #### Cognitive Development
 * [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** [36:59]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
